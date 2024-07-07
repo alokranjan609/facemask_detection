@@ -6,10 +6,6 @@
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
